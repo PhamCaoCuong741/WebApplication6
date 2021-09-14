@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PTB1.Models
 {
-    [Table("Students")]
+    [Table("Student")]
     public class Student
     {
         [Key]
